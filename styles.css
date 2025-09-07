@@ -1,0 +1,103 @@
+/* Resetting some basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+/* Main section */
+main {
+    padding: 20px;
+}
+
+/* Introduction Section */
+#intro {
+    margin-bottom: 40px;
+}
+
+/* Restaurant Section */
+#restaurants {
+    margin-bottom: 40px;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+.restaurant-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.dish-cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.dish-card {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    width: calc(33.33% - 20px);
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dish-card img {
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.dish-card h4 {
+    margin-top: 10px;
+}
+
+.dish-card p {
+    font-size: 14px;
+    color: #666;
+}
+
+/* Sidebar Section */
+#sidebar {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px
+}

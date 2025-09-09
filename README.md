@@ -39,3 +39,19 @@ The project meets the following requirements for the assignment:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/hamza890890/CSC-372-Assignment-3.git
+
+   Open index.html in your browser:
+
+Double-click the index.html file to view the website locally on your browser.
+
+
+This will render as:
+
+## Navigate into the project folder:
+
+```bash
+cd CSC-372-Assignment-3
+
+Open index.html in your browser:
+
+Double-click the index.html file to view the website locally on your browser.

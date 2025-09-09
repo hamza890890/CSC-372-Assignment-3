@@ -27,13 +27,6 @@ The project meets the following requirements for the assignment:
 - **Contact Section**: Provides contact info including an email and social media links.
 - **CSS & HTML Validity**: All HTML and CSS code is validated to meet W3C standards.
 
-## Technologies Used
-
-- **HTML5**: For semantic markup and page structure.
-- **CSS3**: For styling the page layout and creating responsive designs.
-- **Flexbox**: Used for creating responsive dish cards that adjust according to the screen size.
-- **Images**: Various images representing the restaurants and their recommended dishes.
-
 ## How to Run the Project Locally
 
 1. **Clone the repository**:
